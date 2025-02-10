@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Piano",
+    "file": "samples/pianoloop.wav",
+    "bpm": "120",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  }
+]
