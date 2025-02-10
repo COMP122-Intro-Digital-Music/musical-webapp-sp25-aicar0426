@@ -1,8 +1,24 @@
 [
   {
-    "name": "Untitled",
-    "file": "samples/avemaria.wav",
+    "name": "Piano",
+    "file": "samples/pianoloop.wav",
+    "bpm": "120",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "Birds",
+    "file": "samples/birds.wav",
     "bpm": 120,
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": 0.01
+  },
+  {
+    "name": "AveMaria",
+    "file": "samples/avemaria.wav",
+    "bpm": "120",
     "loop": "1m",
     "grain": 0.04,
     "overlap": 0.01
