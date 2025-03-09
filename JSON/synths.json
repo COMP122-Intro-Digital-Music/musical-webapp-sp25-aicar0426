@@ -1,1 +1,55 @@
-[]
+[
+  {
+    "name": "patch 1",
+    "type": "Synth",
+    "settings": {
+      "volume": 5.999999999999998,
+      "detune": 457,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.115",
+        "attackCurve": "linear",
+        "decay": "0.095",
+        "decayCurve": "exponential",
+        "release": "0.865",
+        "releaseCurve": "exponential",
+        "sustain": "0.705"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 81.99999999999999,
+        "type": "triangle"
+      }
+    }
+  },
+  {
+    "name": "patch 2",
+    "type": "Synth",
+    "settings": {
+      "volume": 0,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "0.935",
+        "releaseCurve": "exponential",
+        "sustain": "0.905"
+      },
+      "oscillator": {
+        "partialCount": 4,
+        "partials": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "phase": 0,
+        "type": "sine4"
+      }
+    }
+  }
+]
